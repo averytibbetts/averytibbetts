@@ -32,7 +32,9 @@
  
 
 ---
-
+<a href="YOUR_DONATE_LINK">
+  <img src="donate.svg" alt="Buy me a coffee" width="276">
+</a>
 ## Find Me
 
 [![Website](https://img.shields.io/badge/averytibbetts.com-000000?style=flat&logo=googlechrome&logoColor=white)](https://averytibbetts.com)
