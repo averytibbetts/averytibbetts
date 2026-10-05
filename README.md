@@ -27,9 +27,8 @@
  
 **AI / ML**
  
-![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat&logo=anthropic&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-3776AB?style=flat&logo=python&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
- 
 
 ---
 
