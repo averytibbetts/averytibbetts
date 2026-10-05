@@ -32,7 +32,7 @@
 
 ---
 
-<a href="YOUR_DONATE_LINK">
+<a href="https://buymeacoffee.com/averytibbetts">
   <img src="donate.svg" alt="Buy me a coffee" width="276">
 </a>
 
